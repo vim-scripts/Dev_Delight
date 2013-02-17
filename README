@@ -1,0 +1,21 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4439
+
+This Script provides a GUI only color-scheme. 
+
+GITHUB Repository:
+
+http://github.com/sandeepsinghmails/Dev_Delight
+
+Screenshot:
+
+http://github.com/sandeepsinghmails/Dev_Delight/blob/master/Images/Screenshot_1.jpeg
+
+How To Use Dev_Delight?
+
+Use the command ":color Dev_Delight"
+
+How To Set Dev_Delight as your Default Color Scheme?
+
+Add the following Line (as-it-is) to your .gvimrc File:
+
+colorscheme Dev_Delight
